@@ -1,3 +1,19 @@
-.App {
-  text-align: center;
+
+
+body {
+	
+	background-image: url('./images/smurf1.jpg');
+	background-repeat: no-repeat;
 }
+
+.App {
+  color: darkblue;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+
+
+
